@@ -1,0 +1,17 @@
+.tabItem {
+  list-style-type: none;
+}
+.tabButton {
+  border: none;
+  background-color: transparent;
+  font-size: 15px;
+  font-weight: 600px;
+  cursor: pointer;
+  outline: none;
+}
+.activeClsName {
+  border-bottom: 4px solid deeppink;
+}
+.activeColor {
+  color: deeppink;
+}

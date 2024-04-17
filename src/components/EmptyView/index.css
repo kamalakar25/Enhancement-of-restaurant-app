@@ -1,0 +1,28 @@
+.empty-container {
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.add-btn {
+  background-color: #286ec9;
+  color: white;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}

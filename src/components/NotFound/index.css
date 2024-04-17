@@ -1,0 +1,12 @@
+.page-not-found {
+  width: 250px;
+}
+
+.not-found-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}

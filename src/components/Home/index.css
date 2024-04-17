@@ -1,0 +1,14 @@
+.tabs-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  padding: 10px;
+}
+
+.loading-container {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
